@@ -1,0 +1,42 @@
+[  
+  { 
+    "author": "Au Thor",
+    "description": "Description 1",
+    "isbn": "123-1234567890",
+    "image": "https://images.unsplash.com/photo-1661961110671-77b71b929d52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "name": "Book Name 1",
+    "publication": "1990"
+  },
+  { 
+    "author": "Au Thor",
+    "description": "Description 2",
+    "isbn": "123-1234567890",
+    "image": "https://images.unsplash.com/photo-1661961110671-77b71b929d52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "name": "Book Name 2",
+    "publication": "1990"
+  },
+  { 
+    "author": "Au Thor",
+    "description": "Description 3",
+    "isbn": "123-1234567890",
+    "image": "https://images.unsplash.com/photo-1661961110671-77b71b929d52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "name": "Book Name 3",
+    "publication": "1990"
+  },
+  { 
+    "author": "Au Thor",
+    "description": "Description 4",
+    "isbn": "123-1234567890",
+    "image": "https://images.unsplash.com/photo-1661961110671-77b71b929d52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "name": "Book Name 4",
+    "publication": "1990"
+  },
+  { 
+    "author": "Au Thor",
+    "description": "Description 5",
+    "isbn": "123-1234567890",
+    "image": "https://images.unsplash.com/photo-1661961110671-77b71b929d52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "name": "Book Name 5",
+    "publication": "1990"
+  },
+]
