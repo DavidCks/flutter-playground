@@ -1,4 +1,4 @@
-# CJKI Dictionary Catalogue (Flutter)
+# CJKI Dictionary Catalogue (Flutter) Coding Test
 ---
 
 ### Extracting Data Structures
@@ -21,4 +21,4 @@ Comments are used sparcely and mainly to summorize larger blocks of code, since 
 
 ---
 ##### Estimated Time Spent
-3 hours <span style="font-size: 80%">(which includes this write up)</span>
+3 hours <span style="font-size: 80%">(which includes this write up)</span> with no prior knowledge of the dart programming language.
